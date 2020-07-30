@@ -41,6 +41,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Compilation of videos used in flipped classroom @ Sabanci University](https://www.youtube.com/watch?v=z38fQssQS6k)
+- [ZERO - Son 1 Gün](https://www.youtube.com/watch?v=jqbDlGQwgHA)
+- [ZERO - Son 7 Gün](https://www.youtube.com/watch?v=HQR0y6yH5yk)
+- [ZERO - Son 10 Gün](https://www.youtube.com/watch?v=FAp_IEKSuwQ)
+- [ZERO - Son 9 Gün](https://www.youtube.com/watch?v=6Gsz4w7KX7g)
 <!-- YOUTUBE:END -->
 
 ---
