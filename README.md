@@ -73,6 +73,7 @@
 
 ### 📕 Contributions to Sabanci University Archives
 <!-- SUARCH:START -->
+- [Change log December 2014](https://sutok.sabanciuniv.edu/tr/content/change-log-december-2014)
 - [Sabanci University Archives Website Launch](https://sutok.sabanciuniv.edu/tr/content/sabanci-university-archives-website-launch)
 <!-- SUARCH:END -->
 
