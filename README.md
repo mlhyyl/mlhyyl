@@ -71,6 +71,12 @@
 
 ---
 
+### 📕 Latest Medium Publications
+<!-- SUARCH:START -->
+<!-- SUARCH:END -->
+
+---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
