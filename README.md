@@ -1,8 +1,7 @@
 ### Hi there, I'm Melih Yayli 👋
 
 ## I'm a Husband, Father, Instructional Designer and Web Developer!
-- 🔭 I’m currently working on a University Archives project!
-<!-- - 🌱 I’m currently learning everything 🤣-->
+- 🔭 I’m currently working on a University Archives project!<!-- - 🌱 I’m currently learning everything 🤣-->
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
