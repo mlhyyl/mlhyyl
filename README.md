@@ -71,7 +71,7 @@
 
 ---
 
-### 📕 Latest Medium Publications
+### 📕 Contributions to Sabanci University Archives
 <!-- SUARCH:START -->
 - [Sabanci University Archives Website Launch](https://sutok.sabanciuniv.edu/tr/content/sabanci-university-archives-website-launch)
 <!-- SUARCH:END -->
