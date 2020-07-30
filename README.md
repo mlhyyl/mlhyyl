@@ -61,8 +61,8 @@
 <!-- MEDIUM:END -->
 
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mlhyyl&show_icons=true&theme=radical)
-<img align="left" alt="Melih Yayli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mlhyyl&show_icons=true&hide_border=true" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mlhyyl&show_icons=true&theme=vue)
+<!-- <img align="left" alt="Melih Yayli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mlhyyl&show_icons=true&hide_border=true" /> -->
 
 [website]: https://melihyayli.com
 [twitter]: https://twitter.com/melihyayli
