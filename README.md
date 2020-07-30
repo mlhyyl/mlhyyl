@@ -61,6 +61,12 @@
 
 ---
 
+### 📕 Latest Drupal Stack Exchange Posts
+<!-- DRUPALSTACK:START -->
+<!-- DRUPALSTACK:END -->
+
+---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
