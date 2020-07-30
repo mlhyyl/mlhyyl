@@ -73,6 +73,9 @@
 
 ### 📕 Contributions to Sabanci University Archives
 <!-- SUARCH:START -->
+- [Change log August 2019](https://sutok.sabanciuniv.edu/tr/content/change-log-august-2019)
+- [Change log February 2017](https://sutok.sabanciuniv.edu/tr/content/change-log-february-2017)
+- [Change log December 2015](https://sutok.sabanciuniv.edu/tr/content/change-log-december-2015)
 - [Change log December 2014](https://sutok.sabanciuniv.edu/tr/content/change-log-december-2014)
 - [Sabanci University Archives Website Launch](https://sutok.sabanciuniv.edu/tr/content/sabanci-university-archives-website-launch)
 <!-- SUARCH:END -->
