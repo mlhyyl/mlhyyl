@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "SUARCH"
-          feed_list: "https://suarchives.sabanciuniv.edu/en/feed/melihyayli"
+          feed_list: "https://sutok.sabanciuniv.edu/tr/feed/melihyayli"
