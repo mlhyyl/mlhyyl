@@ -64,7 +64,7 @@
 <!-- DRUPALSTACK:START -->
 - [View to display all child taxonomy terms](https://drupal.stackexchange.com/questions/294766/view-to-display-all-child-taxonomy-terms)
 - [How to display parent term name of a term located in a paragraph?](https://drupal.stackexchange.com/questions/292666/how-to-display-parent-term-name-of-a-term-located-in-a-paragraph)
-- [Answer by Hermes for Views search for term reference in field collection](https://drupal.stackexchange.com/questions/222172/views-search-for-term-reference-in-field-collection/222468#222468)
+- [Answer by mlhyyl for Views search for term reference in field collection](https://drupal.stackexchange.com/questions/222172/views-search-for-term-reference-in-field-collection/222468#222468)
 - [Views search for term reference in field collection](https://drupal.stackexchange.com/questions/222172/views-search-for-term-reference-in-field-collection)
 - [Overriding Field Collection output](https://drupal.stackexchange.com/questions/184309/overriding-field-collection-output)
 <!-- DRUPALSTACK:END -->
