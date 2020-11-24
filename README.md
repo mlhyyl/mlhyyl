@@ -62,7 +62,7 @@
 
 ### 📕 Latest Drupal Stack Exchange Posts
 <!-- DRUPALSTACK:START -->
-- [Answer by mlhyyl for how can i correct some urls for migration from d8 to d7 when missing http?](https://drupal.stackexchange.com/questions/298370/how-can-i-correct-some-urls-for-migration-from-d8-to-d7-when-missing-http/298375#298375)
+- [Answer by mlhyyl for How can I correct somes URLs to migrate them when they miss the protocol?](https://drupal.stackexchange.com/questions/298370/how-can-i-correct-somes-urls-to-migrate-them-when-they-miss-the-protocol/298375#298375)
 - [View to display all child taxonomy terms](https://drupal.stackexchange.com/questions/294766/view-to-display-all-child-taxonomy-terms)
 - [How to display parent term name of a term located in a paragraph?](https://drupal.stackexchange.com/questions/292666/how-to-display-parent-term-name-of-a-term-located-in-a-paragraph)
 - [Answer by mlhyyl for Views search for term reference in field collection](https://drupal.stackexchange.com/questions/222172/views-search-for-term-reference-in-field-collection/222468#222468)
