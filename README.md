@@ -51,11 +51,11 @@
 
 ### 📕 Latest Stack Overflow Posts
 <!-- STACK:START -->
+- [Programatically redact text and images on a page in PDF file](https://stackoverflow.com/questions/65899454/programatically-redact-text-and-images-on-a-page-in-pdf-file)
 - [List all mp4 files with for loop and select one with choice](https://stackoverflow.com/questions/64973663/list-all-mp4-files-with-for-loop-and-select-one-with-choice)
 - [Answer by mlhyyl for Chrome context menu items multiply when popup is opened](https://stackoverflow.com/questions/64826888/chrome-context-menu-items-multiply-when-popup-is-opened/64828064#64828064)
 - [Chrome context menu items multiply when popup is opened](https://stackoverflow.com/questions/64826888/chrome-context-menu-items-multiply-when-popup-is-opened)
 - [Answer by mlhyyl for Combine multiple ffmpeg commands into one](https://stackoverflow.com/questions/64252787/combine-multiple-ffmpeg-commands-into-one/64259227#64259227)
-- [Combine multiple ffmpeg commands into one](https://stackoverflow.com/questions/64252787/combine-multiple-ffmpeg-commands-into-one)
 <!-- STACK:END -->
 
 ---
